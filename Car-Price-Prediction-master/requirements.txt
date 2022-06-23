@@ -6,4 +6,4 @@ sklearn
 matplotlib
 numpy
 pandas
-python
+python-dateutil==3.9.
