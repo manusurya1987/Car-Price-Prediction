@@ -6,4 +6,4 @@ sklearn
 matplotlib
 numpy
 pandas
-python-dateutil==3.9.5
+python-dateutil==2.8.1
