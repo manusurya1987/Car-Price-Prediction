@@ -1,11 +1,4 @@
 certifi==2022.5.18.1
-cycler==0.10.0
-kiwisolver==1.2.0
 wincertstore==0.2
-gunicorn==19.9.0
-Flask
-scikit-learn
+flask
 matplotlib
-numpy
-pandas
-
