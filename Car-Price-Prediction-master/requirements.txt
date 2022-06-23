@@ -8,4 +8,4 @@ scikit-learn
 matplotlib
 numpy
 pandas
-python-dateutil==3.9.1
+
