@@ -5,3 +5,4 @@ flask
 matplotlib
 jsonify
 requests
+sklearn
