@@ -3,3 +3,4 @@ wincertstore==0.2
 gunicorn
 flask
 matplotlib
+jsonify
